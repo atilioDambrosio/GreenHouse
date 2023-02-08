@@ -1,0 +1,12 @@
+{
+  "server": {
+    "ip": "localhost",
+    "port": 1052
+  },
+  "kafka": {
+    "topic": "SOIL_MOISTURE",
+    "partitions": {
+      "soil_moisture": 0
+    }
+  }
+}

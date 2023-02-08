@@ -1,0 +1,13 @@
+{
+  "server": {
+    "ip": "localhost",
+    "port": 1052
+  },
+  "kafka": {
+    "topic": "WIND",
+    "partitions": {
+      "speed": 0,
+      "direction": 1
+    }
+  }
+}

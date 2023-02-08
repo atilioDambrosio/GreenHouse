@@ -1,0 +1,12 @@
+{
+  "server": {
+    "ip": "localhost",
+    "port": 1052
+  },
+  "kafka": {
+    "topic": "LUMENS",
+    "partitions": {
+      "lumens": 0
+    }
+  }
+}

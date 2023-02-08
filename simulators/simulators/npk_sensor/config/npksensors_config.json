@@ -1,0 +1,14 @@
+{
+  "server": {
+    "ip": "localhost",
+    "port": 1052
+  },
+  "kafka": {
+    "topic": "NPK_SENSORS",
+    "partitions": {
+      "nitrogen": 0,
+      "phosphorus": 1,
+      "potassium": 2
+    }
+  }
+}
